@@ -7,7 +7,7 @@
       "Knowledge": [{ "type": "KBA" }],
       "Password": [{ "type": "PWD" }],
       "ID-token": [{ "type": "IDT" }],
-      "Auth-code": [{ "type": "AUTH" }]
+      "Auth-code": [{ "type": "CODE" }]
     },
     "acr_amr": {
       "mosip:idp:acr:password": ["Password"],
